@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="LG" />
+    <item drawable="lg_calculator" />
+    <item drawable="lg_calendar" />
+    <item drawable="lg_camera" />
+    <item drawable="lg_clock" />
+    <item drawable="lg_contact" />
+    <item drawable="lg_dialer" />
+    <item drawable="lg_files" />
+    <item drawable="lg_gallery" />
+    <item drawable="lg_health" />
+    <item drawable="lg_mail" />
+    <item drawable="lg_memo" />
+    <item drawable="lg_messages" />
+    <item drawable="lg_music" />
+    <item drawable="lg_radio" />
+    <item drawable="lg_settings" />
+    <item drawable="lg_video" />
+    <item drawable="lg_weather" />
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lg_calculator_background">#FFFFFF</color>
+    <color name="lg_calendar_background">#FFFFFF</color>
+    <color name="lg_camera_background">#E1E4E4</color>
+    <color name="lg_mail_background">#FFFFFF</color>
+    <color name="lg_weather_background">#5EAAE9</color>
+</resources>
