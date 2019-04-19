@@ -5,4 +5,5 @@
     <color name="lg_camera_background">#E1E4E4</color>
     <color name="lg_mail_background">#FFFFFF</color>
     <color name="lg_weather_background">#5EAAE9</color>
+    <color name="ic_launcher_icon_pack_background">#E85454</color>
 </resources>

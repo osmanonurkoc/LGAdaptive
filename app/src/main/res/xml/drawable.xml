@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <category title="LG" />
+    <item drawable="lg_audio_recorder" />
     <item drawable="lg_calculator" />
     <item drawable="lg_calendar" />
     <item drawable="lg_camera" />
     <item drawable="lg_clock" />
-    <item drawable="lg_contact" />
+    <item drawable="lg_contacts" />
     <item drawable="lg_dialer" />
     <item drawable="lg_files" />
     <item drawable="lg_gallery" />
